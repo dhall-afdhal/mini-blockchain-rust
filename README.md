@@ -46,7 +46,7 @@ Melalui kode ini, kamu dapat mempelajari:
 Pastikan kamu sudah menginstal **Rust & Cargo** terlebih dahulu.  
 Jika belum, unduh dari: [https://rustup.rs](https://rustup.rs)
 
-```bash
+
 # Clone repository ini
 git clone https://github.com/dhall-afdhal/mini-blockchain-rust.git
 
